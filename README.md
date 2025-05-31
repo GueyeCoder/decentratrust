@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Description
+## Description
 
 **DecentraTrust** est une application web décentralisée (DApp) permettant :
 
