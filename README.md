@@ -19,9 +19,9 @@
 | Composant        | Technologie utilisée                          |
 | ---------------- | --------------------------------------------- |
 | Frontend         | [Next.js](https://nextjs.org/) + TailwindCSS  |
-| Backend API      | [Golang](https://golang.org/) (Gin ou Echo)   |
-| IA Service       | Python (OCR + NLP avec spaCy ou Transformers) |
-| Blockchain       | Solidity + Ethereum / Polygon                 |
+| Backend API      | [Golang](https://golang.org/)    |
+| IA Service       | Python (OCR + NLP avec Transformers) |
+| Blockchain       | Solidity + Ethereum                |
 | Base de données  | PostgreSQL + IPFS                             |
 | Authentification | MetaMask / WalletConnect                      |
 | Déploiement      | Docker, Vercel, Hardhat                       |
@@ -36,7 +36,4 @@
 - 🔍 Vérification en ligne avec hash ou QR code
 - 👤 Authentification par portefeuille crypto
 
----
 
-## 📁 Structure du projet
-# decentratrust
